@@ -1,0 +1,29 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="105" height="105" viewBox="0 0 105 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Scan Button">
+<circle id="Ellipse 2" cx="52.5" cy="52.5002" r="51.45" stroke="white" stroke-opacity="0.3" stroke-width="2.1"/>
+<g id="Scan button">
+<circle id="Ellipse 3" opacity="0.5" cx="52.5" cy="52.5002" r="42.5" fill="#19311C"/>
+<g id="3D scan Icon">
+<path id="Vector 1063" d="M53.1719 34.953L53.1719 22.9906M62.7322 28.7186L53.1719 22.9906L42.9788 28.7216" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1068" d="M53.1719 70.0474L53.1719 82.0097M62.7322 76.2817L53.1719 82.0097L42.9788 76.2788" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1064" d="M37.517 41.1679L27.2633 35.0069M37.097 29.7622L27.2633 35.0069L26.9258 46.6957" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1066" d="M69.2025 41.8952L79.4562 35.7342M69.6225 30.4895L79.4562 35.7342L79.7937 47.423" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1065" d="M36.9514 63.2686L26.7892 68.2293M26.7751 57.0844L26.7892 68.2293L36.9514 74.0149" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1067" d="M68.7323 62.8947L78.8945 67.8555M78.9086 56.7106L78.8945 67.8555L68.7323 73.641" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1062" d="M53.1195 49.2008L43.6342 44.2772M53.1195 49.2008L63.3017 44.2772M53.1195 49.2008L53.1195 59.3351" stroke="white" stroke-width="2.3442" stroke-linecap="round"/>
+</g>
+</g>
+<g id="Ellipse 594">
+<mask id="path-10-inside-1_0_148" fill="white">
+<path d="M52.5002 0C62.1763 1.15387e-07 71.6642 2.67413 79.9162 7.7271C88.1682 12.7801 94.8632 20.0153 99.2619 28.6338C103.661 37.2523 105.592 46.9188 104.843 56.5659C104.093 66.213 100.692 75.4653 95.0154 83.3011L93.3148 82.0691C98.7646 74.5467 102.029 65.6645 102.749 56.4033C103.468 47.1421 101.614 37.8622 97.3914 29.5885C93.1686 21.3147 86.7415 14.3689 78.8196 9.51802C70.8977 4.66717 61.7893 2.1 52.5002 2.1L52.5002 0Z"/>
+</mask>
+<path d="M52.5002 0C62.1763 1.15387e-07 71.6642 2.67413 79.9162 7.7271C88.1682 12.7801 94.8632 20.0153 99.2619 28.6338C103.661 37.2523 105.592 46.9188 104.843 56.5659C104.093 66.213 100.692 75.4653 95.0154 83.3011L93.3148 82.0691C98.7646 74.5467 102.029 65.6645 102.749 56.4033C103.468 47.1421 101.614 37.8622 97.3914 29.5885C93.1686 21.3147 86.7415 14.3689 78.8196 9.51802C70.8977 4.66717 61.7893 2.1 52.5002 2.1L52.5002 0Z" stroke="url(#paint0_linear_0_148)" stroke-width="4" stroke-linejoin="round" mask="url(#path-10-inside-1_0_148)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_148" x1="52.5002" y1="1.56462e-06" x2="105" y2="112.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

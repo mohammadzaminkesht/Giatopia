@@ -1,0 +1,25 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="105" height="105" viewBox="0 0 105 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Component 1">
+<g id="Ellipse 2">
+</g>
+<g id="Scan button">
+<circle id="Ellipse 3" opacity="0.5" cx="52.5" cy="52.5" r="42.5" fill="#19311C"/>
+<g id="3D scan Icon">
+<path id="Vector 1063" d="M53.1719 34.9528L53.1719 22.9905M62.7322 28.7184L53.1719 22.9905L42.9788 28.7214" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1068" d="M53.1719 70.0472L53.1719 82.0095M62.7322 76.2816L53.1719 82.0095L42.9788 76.2786" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1064" d="M37.517 41.1678L27.2633 35.0067M37.097 29.762L27.2633 35.0067L26.9258 46.6955" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1066" d="M69.2025 41.895L79.4562 35.734M69.6225 30.4893L79.4562 35.734L79.7937 47.4228" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1065" d="M36.9514 63.2685L26.7892 68.2292M26.7751 57.0843L26.7892 68.2292L36.9514 74.0147" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1067" d="M68.7323 62.8946L78.8945 67.8553M78.9086 56.7104L78.8945 67.8553L68.7323 73.6408" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1062" d="M53.1195 49.2006L43.6342 44.277M53.1195 49.2006L63.3017 44.277M53.1195 49.2006L53.1195 59.335" stroke="white" stroke-width="2.3442" stroke-linecap="round"/>
+</g>
+</g>
+<path id="Ellipse 594" opacity="0" d="M52.5002 -0.000172601C62.1763 -0.000172485 71.6642 2.67396 79.9162 7.72693C88.1682 12.7799 94.8632 20.0151 99.2619 28.6336C103.661 37.2522 105.592 46.9187 104.843 56.5657C104.093 66.2128 100.692 75.4651 95.0154 83.301L90.7639 80.2209C95.873 73.1686 98.9338 64.8415 99.6083 56.1591C100.283 47.4768 98.5446 38.7769 94.5857 31.0203C90.6269 23.2636 84.6014 16.7519 77.1746 12.2042C69.7478 7.65655 61.2087 5.24983 52.5002 5.24983L52.5002 -0.000172601Z" fill="url(#paint0_linear_0_312)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_312" x1="52.5002" y1="-0.000171036" x2="105" y2="239.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

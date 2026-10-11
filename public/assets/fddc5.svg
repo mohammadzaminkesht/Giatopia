@@ -1,0 +1,25 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="105" height="105" viewBox="0 0 105 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Component 1">
+<g id="Ellipse 2">
+</g>
+<g id="Scan button">
+<circle id="Ellipse 3" opacity="0.5" cx="52.5" cy="52.5002" r="42.5" fill="#19311C"/>
+<g id="3D scan Icon">
+<path id="Vector 1063" d="M53.1719 34.953L53.1719 22.9907M62.7322 28.7187L53.1719 22.9907L42.9788 28.7216" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1068" d="M53.1719 70.0474L53.1719 82.0098M62.7322 76.2818L53.1719 82.0098L42.9788 76.2788" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1064" d="M37.517 41.168L27.2633 35.0069M37.097 29.7623L27.2633 35.0069L26.9258 46.6958" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1066" d="M69.2025 41.8953L79.4562 35.7342M69.6225 30.4895L79.4562 35.7342L79.7937 47.423" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1065" d="M36.9514 63.2687L26.7892 68.2294M26.7751 57.0845L26.7892 68.2294L36.9514 74.0149" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1067" d="M68.7323 62.8948L78.8945 67.8555M78.9086 56.7106L78.8945 67.8555L68.7323 73.6411" stroke="white" stroke-width="2.62233" stroke-linecap="round"/>
+<path id="Vector 1062" d="M53.1195 49.2008L43.6342 44.2773M53.1195 49.2008L63.3017 44.2773M53.1195 49.2008L53.1195 59.3352" stroke="white" stroke-width="2.3442" stroke-linecap="round"/>
+</g>
+</g>
+<path id="Ellipse 594" d="M15.3771 15.3769C22.2192 8.53484 30.819 3.71677 40.227 1.45474C49.635 -0.807298 59.4852 -0.425298 68.6898 2.55855C77.8943 5.54241 86.0952 11.012 92.3868 18.3634C98.6785 25.7148 102.816 34.662 104.343 44.2169L99.1584 45.0452C97.7845 36.4458 94.0606 28.3933 88.3982 21.7771C82.7357 15.1608 75.3549 10.2382 67.0708 7.5527C58.7867 4.86723 49.9216 4.52343 41.4543 6.55926C32.9871 8.5951 25.2473 12.9314 19.0894 19.0892L15.3771 15.3769Z" fill="url(#paint0_linear_0_17)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_17" x1="15.3771" y1="15.3769" x2="221.852" y2="147.606" gradientUnits="userSpaceOnUse">
+<stop offset="0.0001" stop-color="#D0F907"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
