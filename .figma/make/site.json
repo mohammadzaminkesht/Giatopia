@@ -1,0 +1,10 @@
+{
+  "description": "This app helps plant owners identify plants and diagnose health issues using AI, offering personalized care tips, reminders, and educational resources.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
