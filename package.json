@@ -1,5 +1,6 @@
 {
   "name": "figma-make-app",
+  "homepage": "https://mohammadzaminkesht.github.io/Giatopia/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -7,9 +8,12 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "format": "oxfmt"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
